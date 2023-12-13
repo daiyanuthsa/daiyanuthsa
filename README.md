@@ -8,7 +8,8 @@
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table>
+  <tr><td valign="top" width="33%">
 
 
 
@@ -21,7 +22,10 @@
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 
 
@@ -35,7 +39,10 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 
 
@@ -47,7 +54,9 @@
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
