@@ -84,9 +84,12 @@
 ## Github Stats 
 
 <div align="center">
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiyanuthsa&theme=nord_dark)
-![Streak Stats](https://streak-stats.demolab.com/?user=daiyanuthsa&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF)
-</div>  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiyanuthsa&theme=nord_dark" alt="Profile Summary">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=daiyanuthsa&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak Stats">
+</div>
 
 <br/>  
 
