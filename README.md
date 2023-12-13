@@ -8,7 +8,7 @@
 
 
 ## My Skill Set  
-<table>
+<table width="100%" border=none>
   <tr><td valign="top" width="100%">
 
 
@@ -82,9 +82,11 @@
 
 
 ## Github Stats 
+
+<div align="center">
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daiyanuthsa&theme=nord_dark)
 ![Streak Stats](https://streak-stats.demolab.com/?user=daiyanuthsa&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF)
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=daiyanuthsa&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+</div>  
 
 <br/>  
 
