@@ -91,6 +91,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=daiyanuthsa&theme=nord&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Streak Stats">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daiyanuthsa&show_icons=true&locale=en&layout=compact" alt="daiyanuthsa" /></p>
 </div>
 
 <br/>  
